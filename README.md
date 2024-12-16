@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 H3ll0 World👋!  
 I'm Armando Valera, a Computer Engineer in the U.S<br>
 
-🔭 I’m currently working on: Udemy 100 Days of Code: The Complete Python Pro Bootcamp<br>
+🔭 I’m currently working on: Sosa, a social searching app for iOS and Android<br>
 👀 I’m interested in Ai/ML, Startups, and programming proficiency<br>
-🌱 I’m currently learning:Python and Javascript<br>
+🌱 I’m currently learning:React<br>
 💞️ I’m looking to collaborate on any project<br>
 📫 How to reach me: amvdevlab@gmail.com<br>
 ⚡ Fun fact:  
