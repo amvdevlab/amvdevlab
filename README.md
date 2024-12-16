@@ -10,7 +10,7 @@ I'm Armando Valera, a Computer Engineer in the U.S<br>
 
 🔭 I’m currently working on: Sosa, a social searching app for iOS and Android<br>
 👀 I’m interested in Ai/ML, Startups, and programming proficiency<br>
-🌱 I’m currently learning:React<br>
+🌱 I’m currently learning: React<br>
 💞️ I’m looking to collaborate on any project<br>
 📫 How to reach me: amvdevlab@gmail.com<br>
 ⚡ Fun fact:  
