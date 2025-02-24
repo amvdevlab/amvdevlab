@@ -8,13 +8,11 @@ You can click the Preview link to take a look at your changes.
 H3ll0 World👋!  
 I'm Armando Valera, a Computer Engineer in the U.S<br>
 
-🔭 I’m currently working on: Sosa, a social searching app for iOS and Android<br>
+🔭 I’m currently working on: armandovalera.com, my personal portfolio<br>
 👀 I’m interested in Ai/ML, Startups, and programming proficiency<br>
-🌱 I’m currently learning: React<br>
+🌱 I’m currently learning: React.js, NEXT.js, TypeScript, Tailwind CSS<br>
 💞️ I’m looking to collaborate on any project<br>
 📫 How to reach me: amvdevlab@gmail.com<br>
-⚡ Fun fact:  
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armandovalera) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Armando-Valera) 
