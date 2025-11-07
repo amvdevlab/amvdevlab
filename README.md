@@ -6,9 +6,9 @@
 - Devon — local development environment monitor
 
 ## Next
-- Continuity — unified workspace for focused project flow  
-- Sosa — ad-blocker extension that only shows ads you care about  
-- Human Thought — evolving library of emotional regulation protocols
+- Continuity — unified workspace for focused project flow 
+- Sosa — Ad-blocker that saves blocked ads into a searchable shopping feed  
+- Human Thought — evolving library of emotional regulation protocols and strategies
 
 ## Skills
 TypeScript • React/Next.js • Python • AWS • Figma/Framer
