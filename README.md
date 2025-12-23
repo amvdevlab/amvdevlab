@@ -2,7 +2,7 @@
 **Computer Engineer (2025) — building software that fits human life**
 
 ###### Now
-- Devon — local development environment monitor
+- Morgan Mortem AI — an incident report generator 
 - New project coming soon!
 
 ###### Work
