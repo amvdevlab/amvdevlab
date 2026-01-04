@@ -2,7 +2,7 @@
 **Computer Engineer (2025) — building software that fits human life**
 
 ###### Now
-- Morgan Mortem AI — an incident report generator 
+- Mortem Metrics AI — an incident timeline constructor 
 - New project coming soon!
 
 ###### Work
