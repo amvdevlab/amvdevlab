@@ -6,7 +6,7 @@
 - New project coming soon!
 
 ###### Work
-[Portfolio](https://armandovalera.com/portfolio) • [Blog](https://armandovalera.com/blog)
+Coming soon!
 
 ###### Connect
-[Email](mailto:hello@armandovalera.com) • [Website](https://armandovalera.com) • [LinkedIn](https://www.linkedin.com/in/armandovalera)
+[Email](mailto:armandomvalera@gmail.com) • [LinkedIn](https://www.linkedin.com/in/armandovalera)
