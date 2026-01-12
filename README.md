@@ -1,12 +1,13 @@
 # Armando Valera
-**Computer Engineer (2025) — building software that fits human life**
+**Computer Engineer (2025)**
 
-###### Now
+### portfolio
+
+###### Completed
+- Speech Emotion Recognition (SER) AI System - Demonstrating LLM capability to predict emotions on audio inputs
+###### In Development
 - Mortem Metrics — an AI incident timeline constructor 
 - New project coming soon!
 
-###### Work
-Coming soon!
-
-###### Connect
+### connect
 [Email](mailto:armandomvalera@gmail.com) • [LinkedIn](https://www.linkedin.com/in/armandovalera)
