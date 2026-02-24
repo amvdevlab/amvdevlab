@@ -6,7 +6,7 @@
 ###### Completed
 - Speech Emotion Recognition (SER) AI System - Demonstrating LLM capability to predict emotions on audio inputs
 ###### In Development
-- Mortem Metrics — an AI incident timeline constructor
+- replibox - an inbox for Google review management
 - armandovalera.com — personal portfolio website
 - New project coming soon!
 
