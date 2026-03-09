@@ -1,14 +1,18 @@
-# Armando Valera
-**Computer Engineer (2025)**
+![Image](https://github.com/user-attachments/assets/9a81e653-5636-4a89-af83-2fac5417ed92)
 
-### portfolio
+# Armando Valera
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&color=C8102E&width=380&lines=Computer+Engineer;FullStack+Developer;AI+Dabbler;Human+Computer+Interaction" alt="Computer Engineer | FullStack Developer | AI Dabbler | Human Computer Interaction">
+
+### Portfolio
 
 ###### Completed
-- Speech Emotion Recognition (SER) AI System - Demonstrating LLM capability to predict emotions on audio inputs
-###### In Development
-- replibox - an inbox for Google review management
-- armandovalera.com — personal portfolio website
-- New project coming soon!
+&check; Speech Emotion Recognition (SER) AI System - Demonstrating LLM capability to predict emotions on audio inputs
 
-### connect
+###### In Development
+&#9685; replibox - an inbox for Google review management  
+&#9684; armandovalera.com — personal portfolio website  
+
+### Connect
 [Email](mailto:armandomvalera@gmail.com) • [LinkedIn](https://www.linkedin.com/in/armandovalera)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=14&duration=1&pause=10000000&color=D3D3D3&width=450&lines=According+to+ChatGPT:+Renaissance+coder+with+a+rocket+launcher" alt="According to ChatGPT: Renaissance coder with a rocket launcher">
