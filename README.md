@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/9a81e653-5636-4a89-af83-2fac5417ed92)
+![Banner](GitHub%20banner.svg)
 
 # Armando Valera
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&color=C8102E&width=380&lines=Computer+Engineer;FullStack+Developer;AI+Dabbler;Human+Computer+Interaction" alt="Computer Engineer | FullStack Developer | AI Dabbler | Human Computer Interaction">
