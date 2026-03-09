@@ -6,10 +6,10 @@
 ### Portfolio
 
 ###### Completed
-&check; Speech Emotion Recognition (SER) AI System - Demonstrating LLM capability to predict emotions on audio inputs
+&check; [Speech Emotion Recognition (SER) AI System](https://github.com/amvdevlab/Speech-Emotion-Recognition-System) - Demonstrating LLM capability to predict emotions on audio inputs
 
 ###### In Development
-&#9685; replibox - an inbox for Google review management  
+&#9685; replibox - a centralized platform for Google review management   
 &#9684; armandovalera.com — personal portfolio website  
 
 ### Connect
