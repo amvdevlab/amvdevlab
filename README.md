@@ -1,7 +1,7 @@
 ![Banner](GitHub%20banner.svg)
 
 # Armando Valera
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&color=C8102E&width=380&lines=Computer+Engineer;FullStack+Developer;AI+Dabbler;Human+Computer+Interaction" alt="Computer Engineer | FullStack Developer | AI Dabbler | Human Computer Interaction">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&color=C8102E&width=380&lines=Computer+Engineer;FullStack+Developer;AI+Dabbler;Human+Computer+Interaction;Robotics" alt="Computer Engineer | FullStack Developer | AI Dabbler | Human Computer Interaction">
 
 ### Portfolio
 
