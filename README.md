@@ -20,4 +20,4 @@
 ### Connect
 [Email](mailto:armandomvalera@gmail.com) • [LinkedIn](https://www.linkedin.com/in/armandovalera)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=14&duration=1&pause=10000000&color=D3D3D3&width=450&lines=According+to+ChatGPT:+Renaissance+coder+with+a+rocket+launcher" alt="According to ChatGPT: Renaissance coder with a rocket launcher">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=14&duration=1&pause=10000000&color=808080&width=450&lines=According+to+ChatGPT:+Renaissance+coder+with+a+rocket+launcher" alt="According to ChatGPT: Renaissance coder with a rocket launcher">
