@@ -1,4 +1,4 @@
-![Banner](GitHub%20banner.svg)
+![Banner](Resources/GitHubbanner.svg)
 
 # Armando Valera
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&color=C8102E&width=380&lines=Computer+Engineer;FullStack+Developer;AI+Dabbler;Human+Computer+Interaction;Affective+Computing;Robotics;" alt="Computer Engineer | FullStack Developer | AI Dabbler | Human Computer Interaction">
@@ -19,3 +19,8 @@
 
 ### Connect
 [Email](mailto:armandomvalera@gmail.com) • [LinkedIn](https://www.linkedin.com/in/armandovalera)
+
+
+<div align="center">
+  <img src="Resources/tech-stack.svg" width="100%" alt="Tech Stack">
+</div>
