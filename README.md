@@ -1,9 +1,10 @@
 ![Banner](Resources/GitHubbanner.svg)
 
-# Armando Valera
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&color=C8102E&width=380&lines=Computer+Engineer;FullStack+Developer;AI+Dabbler;Human+Computer+Interaction;Affective+Computing;Robotics;" alt="Computer Engineer | FullStack Developer | AI Dabbler | Human Computer Interaction">
 
-### Portfolio
+
+
+## Portfolio
 
 ###### Completed
 &check; [Speech Emotion Recognition (SER) AI System](https://github.com/amvdevlab/Speech-Emotion-Recognition-System) - Demonstrating LLM capability to predict emotions on audio inputs
@@ -17,7 +18,7 @@
 &cross; [Mortem Metrics](https://github.com/amvdevlab/Mortem-Metrics.git) - automated incident timeline generation from siloed data sources for post-mortem analysis     
 &cross; [devon](https://github.com/amvdevlab/devon.git) - observability and workflow analytics for the local development environment   
 
-### Connect
+## Connect
 [Email](mailto:armandomvalera@gmail.com) • [LinkedIn](https://www.linkedin.com/in/armandovalera)
 
 
