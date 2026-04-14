@@ -1,0 +1,60 @@
+<svg viewBox="0 0 3600 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .marquee { animation: scroll 50s linear infinite; }
+    
+    .text-item { 
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; 
+      font-size: 32px; 
+      font-weight: 500;
+      fill: #1a1a1a;
+      text-anchor: middle; /* This ensures the gap is measured from center to center */
+    }
+
+    @keyframes scroll { 
+      0% { transform: translateX(0); } 
+      100% { transform: translateX(-3600px); } 
+    }
+    
+    svg:hover .marquee { animation-play-state: paused; }
+  </style>
+
+  <g class="marquee">
+    <g transform="translate(0, 60)">
+      <text x="112.5" class="text-item">Python</text>
+      <text x="337.5" class="text-item">Java</text>
+      <text x="562.5" class="text-item">TypeScript</text>
+      <text x="787.5" class="text-item">C++</text>
+      <text x="1012.5" class="text-item">Next.js</text>
+      <text x="1237.5" class="text-item">Docker</text>
+      <text x="1462.5" class="text-item">AWS</text>
+      <text x="1687.5" class="text-item">Postman</text>
+      <text x="1912.5" class="text-item">Cloudflare</text>
+      <text x="2137.5" class="text-item">Pinecone</text>
+      <text x="2362.5" class="text-item">LangChain</text>
+      <text x="2587.5" class="text-item">SQL</text>
+      <text x="2812.5" class="text-item">NoSQL</text>
+      <text x="3037.5" class="text-item">PyTorch</text>
+      <text x="3262.5" class="text-item">Streamlit</text>
+      <text x="3487.5" class="text-item">GitHub</text>
+    </g>
+
+    <g transform="translate(3600, 60)">
+      <text x="112.5" class="text-item">Python</text>
+      <text x="337.5" class="text-item">Java</text>
+      <text x="562.5" class="text-item">TypeScript</text>
+      <text x="787.5" class="text-item">C++</text>
+      <text x="1012.5" class="text-item">Next.js</text>
+      <text x="1237.5" class="text-item">Docker</text>
+      <text x="1462.5" class="text-item">AWS</text>
+      <text x="1687.5" class="text-item">Postman</text>
+      <text x="1912.5" class="text-item">Cloudflare</text>
+      <text x="2137.5" class="text-item">Pinecone</text>
+      <text x="2362.5" class="text-item">LangChain</text>
+      <text x="2587.5" class="text-item">SQL</text>
+      <text x="2812.5" class="text-item">NoSQL</text>
+      <text x="3037.5" class="text-item">PyTorch</text>
+      <text x="3262.5" class="text-item">Streamlit</text>
+      <text x="3487.5" class="text-item">GitHub</text>
+    </g>
+  </g>
+</svg>
