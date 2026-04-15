@@ -22,6 +22,10 @@
 [Email](mailto:armandomvalera@gmail.com) • [LinkedIn](https://www.linkedin.com/in/armandovalera)
 
 
-<div align="center">
-  <img src="Resources/tech-stack.svg" width="100%" alt="Tech Stack">
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Resources/tech-stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="Resources/tech-stack-light.svg">
+    <img alt="Tech Stack Carousel" src="Resources/tech-stack-light.svg" width="100%">
+  </picture>
+</p>
