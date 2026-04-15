@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 50" preserveAspectRatio="xMinYMid slice">
+  <style>
+    .text-group { 
+      font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; 
+      font-size: 18px; 
+      fill: #FFFFFF;
+      font-weight: 500;
+    }
+    .animate-scroll {
+      animation: scroll 30s linear infinite;
+    }
+    @keyframes scroll {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-100%); }
+    }
+  </style>
+  
+  <g class="animate-scroll">
+    <g class="text-group" transform="translate(0, 30)">
+      <text x="0">Python</text>
+      <text x="100">Java</text>
+      <text x="180">TypeScript</text>
+      <text x="310">C++</text>
+      <text x="380">Next.js</text>
+      <text x="480">Docker</text>
+      <text x="580">AWS</text>
+      <text x="660">Postman</text>
+      <text x="770">Cloudflare</text>
+      <text x="890">Pinecone</text>
+      <text x="1000">LangChain</text>
+      <text x="1130">SQL</text>
+      <text x="1200">NoSQL</text>
+      <text x="1300">PyTorch</text>
+      <text x="1410">Streamlit</text>
+      <text x="1530">GitHub</text>
+    </g>
+    <g class="text-group" transform="translate(1650, 30)">
+      <text x="0">Python</text>
+      <text x="100">Java</text>
+      <text x="180">TypeScript</text>
+      <text x="310">C++</text>
+      <text x="380">Next.js</text>
+      <text x="480">Docker</text>
+      <text x="580">AWS</text>
+      <text x="660">Postman</text>
+      <text x="770">Cloudflare</text>
+      <text x="890">Pinecone</text>
+      <text x="1000">LangChain</text>
+      <text x="1130">SQL</text>
+      <text x="1200">NoSQL</text>
+      <text x="1300">PyTorch</text>
+      <text x="1410">Streamlit</text>
+      <text x="1530">GitHub</text>
+    </g>
+  </g>
+</svg>
