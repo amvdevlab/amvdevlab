@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="22" viewBox="0 0 56 22">
+  <defs><style>
+    .bg{fill:#EEEDFE}.bd{fill:none;stroke:#7F77DD;stroke-width:0.5}
+    .lb{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:11px;font-weight:500;fill:#26215C}
+    .dot{fill:#7F77DD}
+  </style></defs>
+  <rect x=".25" y=".25" width="55.5" height="21.5" rx="10.75" class="bg"/>
+  <rect x=".25" y=".25" width="55.5" height="21.5" rx="10.75" class="bd"/>
+  <circle cx="11" cy="11" r="3.5" class="dot"/>
+  <text x="19" y="15.5" class="lb">Repo</text>
+</svg>

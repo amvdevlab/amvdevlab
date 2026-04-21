@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="22" viewBox="0 0 76 22">
+  <defs><style>
+    .bg{fill:#042C53}.bd{fill:none;stroke:#185FA5;stroke-width:0.5}
+    .lb{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:11px;font-weight:500;fill:#B5D4F4}
+    .dot{fill:#85B7EB}
+    .ring{fill:none;stroke:#85B7EB;stroke-width:1.5;animation:ex 2.2s ease-out infinite}
+    @keyframes ex{0%{r:3.5px;opacity:.6}100%{r:7px;opacity:0}}
+  </style></defs>
+  <rect x=".25" y=".25" width="75.5" height="21.5" rx="10.75" class="bg"/>
+  <rect x=".25" y=".25" width="75.5" height="21.5" rx="10.75" class="bd"/>
+  <circle cx="11" cy="11" r="3.5" class="dot"/>
+  <circle cx="11" cy="11" r="3.5" class="ring"/>
+  <text x="19" y="15.5" class="lb">Building</text>
+</svg>
