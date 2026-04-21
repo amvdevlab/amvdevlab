@@ -6,17 +6,23 @@
 
 ## Portfolio
 
-###### Completed
+<picture><source media="(prefers-color-scheme: dark)" srcset="Resources/tag-live-dark.svg"><img src="Resources/tag-live-light.svg" alt="Live"></picture>  
+
+*Live projects: pending engineering.*  
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="Resources/tag-repo-dark.svg"><img src="Resources/tag-repo-light.svg" alt="Repo"></picture>  
 &check; [Speech Emotion Recognition (SER) AI System](https://github.com/amvdevlab/Speech-Emotion-Recognition-System) - Demonstrating LLM capability to predict emotions on audio inputs
 
-###### In Development
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="Resources/tag-building-dark.svg"><img src="Resources/tag-building-light.svg" alt="Building"></picture>  
 &#9685; replibox - a centralized platform for Google review management. Building for [JMCG](https://www.johnsonmarketingandconsulting.com)   
 &#9684; armandovalera.com — personal portfolio website  
 
-###### Hibernated
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="Resources/tag-hibernated-dark.svg"><img src="Resources/tag-hibernated-light.svg" alt="Hibernated"></picture>  
 &cross; [Mortem Metrics](https://github.com/amvdevlab/Mortem-Metrics.git) - automated incident timeline generation from siloed data sources for post-mortem analysis     
 &cross; [devon](https://github.com/amvdevlab/devon.git) - observability and workflow analytics for the local development environment   
+
 
 ## Connect
 [Email](mailto:armandomvalera@gmail.com) • [LinkedIn](https://www.linkedin.com/in/armandovalera)
