@@ -7,8 +7,8 @@
 ## Portfolio
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="Resources/tag-live-dark.svg"><img src="Resources/tag-live-light.svg" alt="Live"></picture>  
-
-*Live projects: pending engineering.*  
+ 
+◉ [Service Structure](https://github.com/amvdevlab/Service-Structure-Showcase) — a team assistant that answers from uploaded PDFs and drafts structured documents from the conversation. Built for [JMCG](https://www.johnsonmarketingandconsulting.com).  
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="Resources/tag-repo-dark.svg"><img src="Resources/tag-repo-light.svg" alt="Repo"></picture>  
 &check; [Speech Emotion Recognition (SER) AI System](https://github.com/amvdevlab/Speech-Emotion-Recognition-System) - Demonstrating LLM capability to predict emotions on audio inputs
