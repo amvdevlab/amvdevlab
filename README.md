@@ -1,10 +1,8 @@
-![Banner](Resources/GitHubbanner.svg)
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&color=C8102E&width=380&lines=Computer+Engineer;FullStack+Developer;AI+Dabbler;Human+Computer+Interaction;Affective+Computing;Robotics;" alt="Computer Engineer | FullStack Developer | AI Dabbler | Human Computer Interaction">
 
 
 
-## Portfolio
+## Work
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="Resources/tag-live-dark.svg"><img src="Resources/tag-live-light.svg" alt="Live"></picture>  
  
@@ -26,12 +24,3 @@
 
 ## Connect
 [Email](mailto:armandomvalera@gmail.com) • [LinkedIn](https://www.linkedin.com/in/armandovalera)
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Resources/tech-stack-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="Resources/tech-stack-light.svg">
-    <img alt="Tech Stack Carousel" src="Resources/tech-stack-light.svg" width="100%">
-  </picture>
-</p>
