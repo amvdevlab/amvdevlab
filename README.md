@@ -5,10 +5,10 @@
 ## Work
 
 ###### Live
-◉ [Service Structure](https://github.com/amvdevlab/Service-Structure-Showcase) — a team assistant that answers from uploaded PDFs and drafts structured documents from the conversation. Built for [JMCG](https://www.johnsonmarketingandconsulting.com).  
+◉ [Service Structure](https://github.com/amvdevlab/Service-Structure-Showcase) — an internal tool for [JMCG](https://www.johnsonmarketingandconsulting.com) that utilizes AI, RAG, and DAG to constructs custom client documents. 
 
 ###### Repository
-&check; [Speech Emotion Recognition (SER) AI System](https://github.com/amvdevlab/Speech-Emotion-Recognition-System) - Demonstrating LLM capability to predict emotions on audio inputs
+&check; [Speech Emotion Recognition (SER) AI System](https://github.com/amvdevlab/Speech-Emotion-Recognition-System) - Demonstrating LLM capability to predict emotions on audio inputs.
 
 ###### Building
 &#9685; replibox - a centralized platform for Google review management. Building for [JMCG](https://www.johnsonmarketingandconsulting.com)   
