@@ -11,12 +11,12 @@
 &check; [Speech Emotion Recognition (SER) AI System](https://github.com/amvdevlab/Speech-Emotion-Recognition-System) - Demonstrating LLM capability to predict emotions on audio inputs.
 
 ###### Building
-&#9685; replibox - a centralized platform for Google review management. Building for [JMCG](https://www.johnsonmarketingandconsulting.com)   
-&#9684; armandovalera.com — personal portfolio website  
+&#9685; Replibox - a centralized platform for Google review management by [JMCG](https://www.johnsonmarketingandconsulting.com).   
+&#9684; armandovalera.com — personal portfolio website. 
 
 ###### Hibernated
-&cross; [Mortem Metrics](https://github.com/amvdevlab/Mortem-Metrics.git) - automated incident timeline generation from siloed data sources for post-mortem analysis     
-&cross; [devon](https://github.com/amvdevlab/devon.git) - observability and workflow analytics for the local development environment   
+&cross; [Mortem Metrics](https://github.com/amvdevlab/Mortem-Metrics.git) - automated incident timeline generation from siloed data sources for post-mortem analysis.     
+&cross; [devon](https://github.com/amvdevlab/devon.git) - observability and workflow analytics for the local development environment.   
 
 
 ## Connect
