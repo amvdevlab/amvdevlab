@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&color=C8102E&width=380&lines=Computer+Engineer;FullStack+Developer;AI+Dabbler;Human+Computer+Interaction;Affective+Computing;Robotics;" alt="Computer Engineer | FullStack Developer | AI Dabbler | Human Computer Interaction">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&color=C8102E&width=380&lines=Software+Engineer;FullStack+Developer;Applied+AI;Developer+Tools;Machine+Learning;" alt="Software Engineer | FullStack Developer | Applied AI | Developer Tools | Machine Learning"> 
 
 
 
