@@ -3,7 +3,7 @@
 
 #### What I'm building
 
-- Colosseum — multi-platform job aggregator and tracker built for focused, daily job hunting.
+- Kodo Shime — a terminal-based Pomodoro focus timer built in Rust.
 - Replibox — multi-tenant SaaS that auto-responds to Google Business Profile reviews.
 
 #### Past work
